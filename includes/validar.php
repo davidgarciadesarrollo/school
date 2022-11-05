@@ -1,5 +1,4 @@
 <?php
-$conexion= mysqli_connect("localhost", "root", "", "r_user");
 include_once 'config/parametros.php';
 
 if(isset($_POST['registrar'])){

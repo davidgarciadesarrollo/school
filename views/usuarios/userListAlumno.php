@@ -16,7 +16,7 @@
     <div class="container is-fluid">
       <div class="col-xs-12">
         <h3 class="font-weight-bold my-3 text-center">Bienvenido alumno <?php echo $_SESSION['nombre']; ?> <?php echo $_SESSION['id']; ?></h3>
-        <h5>Lista de usuarios</h5>
+        <h5>Lista de cursos</h5>
         <table class="table table-striped table-dark " id= "table_id">
           <thead>
             <tr>
